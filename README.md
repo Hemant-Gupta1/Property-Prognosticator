@@ -4,5 +4,5 @@
 https://github.com/Hemant-Gupta1/Property-Prognosticator
 
 ## Description
-Predicting real estate prices, visualizing trends with a stylish charts.
+Predicted real estate prices, visualizing trends with stylish charts and improved the performance of model by 33.79% using various techniques.
 
