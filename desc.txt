@@ -1,0 +1,3 @@
+Engineered "Property Prognosticator," a real estate price prediction system, utilizing Python libraries (Pandas, NumPy, Scikit-learn) and advanced machine learning techniques, improving model performance by 33.79%.
+Developed and optimized regression models, including Linear Regression, Decision Tree, and Random Forest, enhancing property price forecasting accuracy through robust data preprocessing and stratified sampling techniques.
+Applied end-to-end data analysis, feature engineering, and predictive modeling methodologies, showcasing expertise in real-world data science applications and model optimization for accurate forecasting.
